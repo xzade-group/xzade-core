@@ -2,21 +2,21 @@
 
 **xZade Group** is a technology company focused on building **AI-powered platforms, automation systems, and scalable SaaS products** designed to help businesses grow efficiently in the digital era.
 
-We combine artificial intelligence, automation, and modern software architecture to create reliable, high-performance solutions for global and regional markets.
+We combine **artificial intelligence, automation, and modern software architecture** to create reliable, high-performance solutions for global and regional markets.
 
 ---
 
-🌍 About xZade Group
+## 🌍 About xZade Group
 
-Company Name: xZade Group
+- **Company Name:** xZade Group
 
-Industry: Artificial Intelligence, Automation, SaaS
+- **Industry:** Artificial Intelligence, Automation, SaaS
 
-Founded: 2025
+- **Founded:** 2025
 
-Headquarters: Azerbaijan
+- **Headquarters:** Azerbaijan
 
-Website: https://xzade.com
+- **Website:** https://xzade.com
 
 xZade Group operates as a product-focused technology company, building proprietary platforms rather than client-based software services.
 
