@@ -4,7 +4,7 @@
 
 We combine **artificial intelligence, automation, and modern software architecture** to create reliable, high-performance solutions for global and regional markets.
 
----
+--- 
 
 ## 🌍 About xZade Group
 
