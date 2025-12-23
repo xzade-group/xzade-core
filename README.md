@@ -18,10 +18,12 @@ We combine **artificial intelligence, automation, and modern software architectu
 
 - **Website:** https://xzade.com
 
-xZade Group operates as a product-focused technology company, building proprietary platforms rather than client-based software services.
+xZade Group operates as a **product-focused technology company**, building proprietary platforms rather than client-based software services.
 
-🚀 Products & Platforms
-🔮 ZodiLab
+---
+
+## 🚀 Products & Platforms
+### 🔮 ZodiLab
 
 AI-powered astrology & analytics platform
 
