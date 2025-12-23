@@ -25,37 +25,41 @@ xZade Group operates as a **product-focused technology company**, building propr
 ## 🚀 Products & Platforms
 ### 🔮 ZodiLab
 
-AI-powered astrology & analytics platform
+**AI-powered astrology & analytics platform**
 
 ZodiLab combines traditional astrology with modern AI to deliver:
 
-Personalized horoscope analysis
+- Personalized horoscope analysis
 
-Daily, weekly, monthly & yearly forecasts
+- Daily, weekly, monthly & yearly forecasts
 
-Compatibility analysis
+- Compatibility analysis
 
-Multi-language support
+- Multi-language support
 
-API-first architecture for apps & bots
+- API-first architecture for apps & bots
 
 Website (coming soon): https://zodilab.com
 
-⭐ XStar
+---
 
-Digital star registration & celestial gifting platform
+## ⭐ XStar
+
+**Digital star registration & celestial gifting platform**
 
 XStar allows users to:
 
-Register and name stars
+- Register and name stars
 
-Generate personalized star certificates
+- Generate personalized star certificates
 
-Create meaningful cosmic gifts
+- Create meaningful cosmic gifts
 
-Manage star data via a secure system
+- Manage star data via a secure system
 
-🧠 Core Technologies
+---
+
+## 🧠 Core Technologies
 
 xZade Group products are built using modern, scalable technologies:
 
