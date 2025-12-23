@@ -63,63 +63,75 @@ XStar allows users to:
 
 xZade Group products are built using modern, scalable technologies:
 
-Backend: Laravel, PHP, REST APIs
+- **Backend:** Laravel, PHP, REST APIs
 
-Frontend: Blade, JavaScript, CSS
+- **Frontend:** Blade, JavaScript, CSS
 
-AI & Automation: Custom AI logic, automation bots
+- **AI & Automation:** Custom AI logic, automation bots
 
-Infrastructure: API-first architecture, modular systems
+- **Infrastructure:** API-first architecture, modular systems
 
-SEO & Data: Structured Data (Schema.org), Google-friendly architecture
+- **SEO & Data:** Structured Data (Schema.org), Google-friendly architecture
 
-🏗 Repository Purpose
+---
+
+## 🏗 Repository Purpose
 
 This repository (xzade-core) contains:
 
-Core architecture components
+- Core architecture components
 
-Shared logic between xZade Group products
+- Shared logic between xZade Group products
 
-Internal utilities and base configurations
+- Internal utilities and base configurations
 
-Foundational code used across multiple platforms
+- Foundational code used across multiple platforms
 
 This repo represents the technical backbone of xZade Group.
 
-🔗 Official Links
+---
 
-🌐 Website: https://xzade.com
+## 🔗 Official Links
 
-💼 LinkedIn: https://www.linkedin.com/company/xzade
+- 🌐 Website: https://xzade.com
 
-🐦 X (Twitter): https://twitter.com/xzade
+- 💼 LinkedIn: https://www.linkedin.com/company/xzade
 
-📺 YouTube: https://youtube.com/@xzade
+- 🐦 X (Twitter): https://twitter.com/xzade
 
-📈 Vision & Mission
+- 📺 YouTube: https://youtube.com/@xzade
 
-Our mission is to build intelligent digital systems that:
+---
 
-Automate complex processes
+## 📈 Vision & Mission
 
-Scale effortlessly
+**Our mission** is to build intelligent digital systems that:
 
-Provide real value through AI-driven insights
+- Automate complex processes
 
-Our vision is to establish xZade Group as a globally recognized AI & SaaS company, originating from Azerbaijan and expanding worldwide.
+- Scale effortlessly
 
-📜 Legal & Branding
+- Provide real value through AI-driven insights
 
-All products and trademarks belong to xZade Group
+**Our vision** is to establish xZade Group as a **globally recognized AI & SaaS company**, originating from Azerbaijan and expanding worldwide.
 
-Brand name: xZade
+---
 
-Alternate name: xZade Group
+## 📜 Legal & Branding
 
-🤝 Contributions
+- All products and trademarks belong to **xZade Group**
+
+- Brand name: **xZade**
+
+- Alternate name: **xZade Group**
+
+---
+
+## 🤝 Contributions
 
 This repository is currently maintained by the xZade Group core team.
 Public contributions may be enabled in the future.
+
+---
 
 © 2025 xZade Group. All rights reserved.
