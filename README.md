@@ -31,7 +31,7 @@ We combine **artificial intelligence, automation, and modern software architectu
 
 xZade Group operates as a **product-focused technology company**, building proprietary platforms rather than client-based software services.
 
-xZade Group is the parent organization behind ZodiLab, XStar, and future AI-driven digital platforms.
+xZade Group is the parent organization behind ZodiLab, OMS (One Million Stars), and future AI-driven digital platforms.
 
 ---
 
@@ -56,11 +56,11 @@ Website (coming soon): https://zodilab.com
 
 ---
 
-## ⭐ XStar
+## ⭐ OMS (One Million Stars)
 
 **Digital star registration & celestial gifting platform**
 
-XStar allows users to:
+OMS allows users to:
 
 - Register and name stars
 
