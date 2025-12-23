@@ -1,8 +1,10 @@
-xZade Group
+# xZade Group
 
-xZade Group is a technology company focused on building AI-powered platforms, automation systems, and scalable SaaS products designed to help businesses grow efficiently in the digital era.
+**xZade Group** is a technology company focused on building **AI-powered platforms, automation systems, and scalable SaaS products** designed to help businesses grow efficiently in the digital era.
 
 We combine artificial intelligence, automation, and modern software architecture to create reliable, high-performance solutions for global and regional markets.
+
+---
 
 🌍 About xZade Group
 
