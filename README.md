@@ -31,6 +31,8 @@ We combine **artificial intelligence, automation, and modern software architectu
 
 xZade Group operates as a **product-focused technology company**, building proprietary platforms rather than client-based software services.
 
+xZade Group is the parent organization behind ZodiLab, XStar, and future AI-driven digital platforms.
+
 ---
 
 ## 🚀 Products & Platforms
@@ -106,11 +108,15 @@ This repo represents the technical backbone of xZade Group.
 
 - 🌐 Website: https://xzade.com
 
+- 🧠 GitHub: https://github.com/xzade-group
+
 - 💼 LinkedIn: https://www.linkedin.com/company/xzade
 
 - 🐦 X (Twitter): https://twitter.com/xzade
 
 - 📺 YouTube: https://youtube.com/@xzade
+
+GitHub serves as the public technical presence of xZade Group and its core infrastructure.
 
 ---
 
